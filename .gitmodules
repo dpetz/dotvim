@@ -7,6 +7,3 @@
 [submodule "pack/plugins/start/syntastic"]
 	path = pack/plugins/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic
-[submodule "pack/plugins/start/tsuquyomi"]
-  path = pack/plugins/start/tsuquyomi
-  url = https://github.com/Quramy/tsuquyomi
